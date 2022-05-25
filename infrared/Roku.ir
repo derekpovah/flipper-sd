@@ -1,0 +1,32 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 17 E8 00 00
+# 
+name: Back
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 66 99 00 00
+# 
+name: Home
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 03 FC 00 00
+# 
+name: Ok
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 2A D5 00 00
+# 
+name: Play
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 4C B3 00 00

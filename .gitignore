@@ -1,0 +1,15 @@
+dolphin/
+update/
+Manifest
+.Trash*
+
+# Databases can be downloaded with qFlipper
+assets/
+
+# Sensitive NFC files
+Mastercard.nfc
+Chs_gym.nfc
+
+# Sensitive U2F files
+cnt.u2f
+key.u2f
