@@ -30,3 +30,21 @@ type: parsed
 protocol: NECext
 address: EA C7 00 00
 command: 4C B3 00 00
+# 
+name: Volup
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 0F F0 00 00
+# 
+name: Voldn
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 90 6F 00 00
+# 
+name: Mute
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 20 DF 00 00
