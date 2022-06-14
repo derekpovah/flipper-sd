@@ -1,0 +1,3 @@
+[submodule "nfc/Amiibo"]
+	path = nfc/Amiibo
+	url = git@github.com:Gioman101/FlipperAmiibo.git
