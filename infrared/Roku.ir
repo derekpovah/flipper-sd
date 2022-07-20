@@ -48,3 +48,27 @@ type: parsed
 protocol: NECext
 address: EA C7 00 00
 command: 20 DF 00 00
+# 
+name: R
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 2D D2 00 00
+# 
+name: L
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 1E E1 00 00
+# 
+name: U
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 19 E6 00 00
+# 
+name: D
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 33 CC 00 00
